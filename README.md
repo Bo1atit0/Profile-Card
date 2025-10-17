@@ -40,10 +40,7 @@ This is a responsive **Profile Card** built with **HTML, CSS, and JavaScript** a
 
 ---
 
-## Live Demo
 
-You can view the live demo of the project here:  
-[Live Demo Link](https://your-profile-card.netlify.app)
 
 ---
 
@@ -55,9 +52,4 @@ You can view the live demo of the project here:
 
 ---
 
-## Author
 
-[Your Full Name]  
-- GitHub: [yourusername](https://github.com/yourusername)  
-- LinkedIn: [yourprofile](https://linkedin.com/in/yourprofile)  
-- Twitter: [yourprofile](https://twitter.com/yourprofile)  
